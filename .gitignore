@@ -1,0 +1,10 @@
+# Binaries and libraries
+*.o
+*.a
+demo
+chat
+
+# OS files
+.DS_Store
+*.swp
+*.dSYM/
